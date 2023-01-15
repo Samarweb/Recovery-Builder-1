@@ -14,9 +14,9 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-10.0-deprecated
-  DEVICE: KD7
-  DT_LINK: https://github.com/mastersenpai0405/recovery_device_tecno_KD7
-  DT_PATH: device/tecno/KD7
+  DEVICE: P85Nxt
+  DT_LINK: https://github.com/twrpdtgen/android_device_panasonic_P85Nxt/tree/P85Nxt-user-7.1.2-N2G47H-08241812-release-keys
+  DT_PATH: device/panasonic/P85Nxt
   TARGET: recoveryimage
   TZ: Asia/manila
 
