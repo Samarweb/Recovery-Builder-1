@@ -65,4 +65,4 @@ jobs:
           tag_name: TWRP_10.0
           name: TWRP-KD7
           files: | 
-            work/out/target/product/KD7/recovery.img
+            work/out/target/product/P85Nxt/recovery.img
